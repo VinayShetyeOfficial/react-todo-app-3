@@ -45,6 +45,11 @@ function App() {
   // Add todo
   const handleAddTodo = () => {
     setAllTodos([...allTodos, inputData])
+
+    setInputData({
+      title: "",
+      description: "",
+    })
   }
 
   // Delete todo
