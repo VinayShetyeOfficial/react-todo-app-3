@@ -23,7 +23,7 @@ A simple and intuitive ToDo application built with React. It allows users to add
 
 2. Navigate to the project directory:
    ```bash
-    cd react-todo-app 
+    cd React-Todo-App-3
    ```
    
 3. Install dependencies:
