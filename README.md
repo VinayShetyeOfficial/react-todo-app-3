@@ -1,11 +1,8 @@
-# React ToDo App
-![React-ToDo-App](https://github.com/VinayShetyeOfficial/React-Todo-App-3/assets/100470361/a73e6453-05bb-4357-b510-7b8a137be555)
+# Todo App [[Live Preview](https://todo-app-live3.netlify.app/)]
 
-![React-ToDo-App2](https://github.com/VinayShetyeOfficial/React-Todo-App-3/assets/100470361/c056746c-49a4-4d43-92a9-07d50c4ab64c)
+![img1](https://github.com/user-attachments/assets/6a880dfe-8390-45f1-a718-e6c763f6b666)
 
-### Links
-
-Live Site URL: [Preview](https://66419320d531b651f1f14d8f--reliable-lamington-3c751d.netlify.app/)
+![img2](https://github.com/user-attachments/assets/8a7b34fc-4af8-4464-aad1-109e050b2479)
 
 ## Description
 A simple and intuitive ToDo application built with React. It allows users to add tasks with a title and description, and manage them effectively.
